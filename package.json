@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "new-appliance-repair-site",
+  "version": "1.0.1",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "yarn run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -b netlify -d public"
+  },
+  "dependencies": {
+    "gatsby": "^2.25.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
