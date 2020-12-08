@@ -4,15 +4,9 @@
   </a>
 </p>
 <h1 align="center">
-  new-appliance-repair-site
+  Service Site Appliance Repair Website
 </h1>
 
-Template for launching Appliance Repair sites using @servicesite/gatsby-theme-appliance-repair@1.1.1
-
-1. Clone, rename to _city_-repairs, update package name in `package.json`, and `hub create`
-2. `yarn install`
-3. Create A records for the domain as per the guide
-4. Edit `site-config.json`, `static/CNAME` and `yarn run deploy`
+A [Gatsby](https://www.gatsbyjs.org) site for Service Site's local appliance repair service.
 
 **See [this gist](https://gist.github.com/alistairreay/c1c7b158e28eb2d1430282f8ebd4181b) for more information.**
-
