@@ -1,15 +1,30 @@
 {
-  "name": "Reykjavík Repairs",
-  "title": "Reykjavík Repairs - Appliance Repairs in Reykjavík and surrounding areas!",
-  "area": "Reykjavík",
+  "area": "Watford",
+  "telephone": "01923 961 115",
+  "domain": "watfordrepairs.co.uk",
+  "whatConvertsTrackingCode": 0,
+  "email": "bookings@watfordrepairs.co.uk",
+  "name": "Watford Repairs",
+  "title": "Watford Repairs - Appliance Repairs in Watford and surrounding areas!",
   "nearbyAreas": [
-    "Kópavogur",
-    "Gardabaer",
-    "Mosfellsbær"
-  ],
-  "telephone": "+354 800 8111",
-  "email": "bookings@reykjavikrepairs.co.uk",
-  "domain": "reykjavikrepairs.co.uk",
-  "whatConvertsTrackingCode": 99999,
-  "googleTagManagerId": ""
+    "Bushey",
+    "Abbots Langley",
+    "Radlett",
+    "Rickmansworth",
+    "Elstree",
+    "Stanmore",
+    "Pinner",
+    "Kings Langley",
+    "Borehamwood",
+    "Shenley",
+    "Chorleywood",
+    "Harefield",
+    "Maple Cross",
+    "Greenhill",
+    "Edgware",
+    "Ruislip",
+    "Harrow",
+    "Harrow on the Hill",
+    "St Albans"
+  ]
 }
